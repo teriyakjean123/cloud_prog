@@ -3,7 +3,7 @@ from scheduler import add_task, run_scheduler
 def main():
     """Main function to handle user input."""
     while True:
-        print("\nTask Scheduler Menu:")
+        print("Task Scheduler Menu:")
         print("1. Add a task")
         print("2. Run scheduler")
         print("3. Exit")

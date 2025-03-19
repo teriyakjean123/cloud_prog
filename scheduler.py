@@ -4,7 +4,6 @@ import time
 tasks = []
 
 def add_task():
-    """Function to add a task to the task list."""
     task_name = input("Enter task name: ")
     task_time = input("Enter task time in seconds: ")
     
